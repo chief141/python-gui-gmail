@@ -69,7 +69,6 @@ def send():
 password_hid = True
 def show_pass():
 	global password_hid
-	messagebox.showinfo(title="Success",message="Your mail was sent successfully!")
 	if password_hid:
 		show_pass_btn['image'] = show_pass_btn_icon2
 		pass_entry.config(show="")
