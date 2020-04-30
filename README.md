@@ -6,3 +6,5 @@ This app is built on python using the Tkinter module for the GUI part and smtpli
 
 Just add your info in the app and receiver's email then add the subject and body and click the send button.
 This also saves your email(locally) when you click on "save as draft" button.
+
+![Preview](preview.jpg)
